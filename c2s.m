@@ -8,7 +8,7 @@ function [theta,phi,r] = c2s(x,y,z)
 % Fundmentals of Spherical Array Processing
 % Boaz Rafaely, 2017.
 %
-% Modified by Tom Shlomo,  Dec 2019
+% Modified by Tom Shlomo, Dec 2019
 
 if nargin==1
     c = x;
