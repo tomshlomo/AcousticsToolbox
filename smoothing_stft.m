@@ -55,7 +55,7 @@ clear P;
 switch timeSmoothingType
     case 'movmean'
         R1 = movmean(R1, k_time, 2);
-    case 'filter'
+    case 'iir'
         R1 = filter(alpha, [1, alpha-1], R1, [], 2);
     case 'none'
         
