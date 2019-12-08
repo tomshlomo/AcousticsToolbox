@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:102,EBU Sound Quality Assessment Material - Sine Wave 1kHz, -20dB;-10dB;0dB (Mono)
+01.flac
+#EXTINF:49,EBU Sound Quality Assessment Material - Band-limited Pink Noise (Stereo)
+02.flac
+#EXTINF:27,EBU Sound Quality Assessment Material - Electronic Gong 100Hz (Mono)
+03.flac
+#EXTINF:27,EBU Sound Quality Assessment Material - Electronic Gong 400Hz (Mono)
+04.flac
+#EXTINF:28,EBU Sound Quality Assessment Material - Electronic Gong 5kHz (Mono)
+05.flac
+#EXTINF:23,EBU Sound Quality Assessment Material - Electronic Gong 500Hz vibrato (Mono)
+06.flac
+#EXTINF:35,EBU Sound Quality Assessment Material - Electronic Tune (Frère Jacques) (Mono)
+07.flac
+#EXTINF:71,EBU Sound Quality Assessment Material - Violin (arpegio;melodious phrase) (Stereo)
+08.flac
+#EXTINF:56,EBU Sound Quality Assessment Material - Viola (arpegio;melodious phrase) (Stereo)
+09.flac
+#EXTINF:74,EBU Sound Quality Assessment Material - Violoncello (arpegio;melodious phrase) (Stereo)
+10.flac
+#EXTINF:66,EBU Sound Quality Assessment Material - Double-bass (arpegio;melodious phrase) (Stereo)
+11.flac
+#EXTINF:27,EBU Sound Quality Assessment Material - Piccolo (melodious phrase) (Stereo)
+12.flac
+#EXTINF:46,EBU Sound Quality Assessment Material - Flute (arpegio;melodious phrase) (Stereo)
+13.flac
+#EXTINF:49,EBU Sound Quality Assessment Material - Oboe (arpegio;melodious phrase) (Stereo)
+14.flac
+#EXTINF:24,EBU Sound Quality Assessment Material - Cor Anglais (arpegio) (Stereo)
+15.flac
+#EXTINF:39,EBU Sound Quality Assessment Material - Clarinet (arpegio;melodious phrase) (Stereo)
+16.flac
+#EXTINF:23,EBU Sound Quality Assessment Material - Bass-clarinet (arpegio) (Stereo)
+17.flac
+#EXTINF:38,EBU Sound Quality Assessment Material - Bassoon (arpegio;melodious phrase) (Stereo)
+18.flac
+#EXTINF:22,EBU Sound Quality Assessment Material - Contra-bassoon (arpegio) (Stereo)
+19.flac
+#EXTINF:39,EBU Sound Quality Assessment Material - Saxophone (arpegio;melodious phrase) (Stereo)
+20.flac
+#EXTINF:36,EBU Sound Quality Assessment Material - Trumpet (arpegio;melodious phrase) (Stereo)
+21.flac
+#EXTINF:40,EBU Sound Quality Assessment Material - Trombone (arpegio;melodious phrase) (Stereo)
+22.flac
+#EXTINF:44,EBU Sound Quality Assessment Material - Horn (arpegio;melodious phrase) (Stereo)
+23.flac
+#EXTINF:49,EBU Sound Quality Assessment Material - Tuba (arpegio;melodious phrase) (Stereo)
+24.flac
+#EXTINF:68,EBU Sound Quality Assessment Material - Harp (arpegio;melodious phrase) (Stereo)
+25.flac
+#EXTINF:39,EBU Sound Quality Assessment Material - Claves (single tone;single tone-rhythm) (Stereo)
+26.flac
+#EXTINF:20,EBU Sound Quality Assessment Material - Castanets  (single tone-rhythm) (Stereo)
+27.flac
+#EXTINF:76,EBU Sound Quality Assessment Material - Side drum without/with snares (single tone;roll) (Stereo)
+28.flac
+#EXTINF:24,EBU Sound Quality Assessment Material - Bass Drum (single tone) (Stereo)
+29.flac
+#EXTINF:26,EBU Sound Quality Assessment Material - Kettle Drums (single tone) (Stereo)
+30.flac
+#EXTINF:124,EBU Sound Quality Assessment Material - Cymbal (soft stick single tone;hard stick single tone;soft stick roll;single tone) (Stereo)
+31.flac
+#EXTINF:74,EBU Sound Quality Assessment Material - Triangles/Triangle roll (Stereo)
+32.flac
+#EXTINF:266,EBU Sound Quality Assessment Material - Gong (single tone forte;single tone piano;roll) (Stereo)
+33.flac
+#EXTINF:27,EBU Sound Quality Assessment Material - Tubular Bells (melodious phrase) (Stereo)
+34.flac
+#EXTINF:59,EBU Sound Quality Assessment Material - Glockenspiel (arpegio;melodious phrase) (Stereo)
+35.flac
+#EXTINF:50,EBU Sound Quality Assessment Material - Xylophone (single tone;melodious phrase) (Stereo)
+36.flac
+#EXTINF:15,EBU Sound Quality Assessment Material - Vibraphone (arpegio) (Stereo)
+37.flac
+#EXTINF:21,EBU Sound Quality Assessment Material - Marimba (single tone) (Stereo)
+38.flac
+#EXTINF:137,EBU Sound Quality Assessment Material - Grand Piano (arpegio;single tone mezzo forte;single tone fortissimo;melodious phrase) (Stereo)
+39.flac
+#EXTINF:53,EBU Sound Quality Assessment Material - Harpsichord (arpegio;melodious phrase) (Stereo)
+40.flac
+#EXTINF:66,EBU Sound Quality Assessment Material - Celesta (arpegio;single tone;melodious phrase) (Stereo)
+41.flac
+#EXTINF:22,EBU Sound Quality Assessment Material - Accordion (melodious phrase) (Stereo)
+42.flac
+#EXTINF:88,EBU Sound Quality Assessment Material - Organ (arpegio;melodious phrase;melodious phrase full organ) (Stereo)
+43.flac
+#EXTINF:28,EBU Sound Quality Assessment Material - Soprano (Stereo)
+44.flac
+#EXTINF:30,EBU Sound Quality Assessment Material - Alto (Stereo)
+45.flac
+#EXTINF:29,EBU Sound Quality Assessment Material - Tenor (Stereo)
+46.flac
+#EXTINF:30,EBU Sound Quality Assessment Material - Bass (Stereo)
+47.flac
+#EXTINF:28,EBU Sound Quality Assessment Material - Quartet (Stereo)
+48.flac
+#EXTINF:23,EBU Sound Quality Assessment Material - Female Speech (English) (Mono)
+49.flac
+#EXTINF:22,EBU Sound Quality Assessment Material - Male Speech (English) (Mono)
+50.flac
+#EXTINF:21,EBU Sound Quality Assessment Material - Female Speech (French) (Mono)
+51.flac
+#EXTINF:24,EBU Sound Quality Assessment Material - Male Speech (French) (Mono)
+52.flac
+#EXTINF:21,EBU Sound Quality Assessment Material - Female Speech (German) (Mono)
+53.flac
+#EXTINF:21,EBU Sound Quality Assessment Material - Male Speech (German) (Mono)
+54.flac
+#EXTINF:32,EBU Sound Quality Assessment Material - Trumpet (Haydn) (Stereo)
+55.flac
+#EXTINF:34,EBU Sound Quality Assessment Material - Organ (Händel) (Stereo)
+56.flac
+#EXTINF:20,EBU Sound Quality Assessment Material - Organ (Bach) (Stereo)
+57.flac
+#EXTINF:16,EBU Sound Quality Assessment Material - Guitar (Sarasate) (Stereo)
+58.flac
+#EXTINF:29,EBU Sound Quality Assessment Material - Violin (Ravel) (Stereo)
+59.flac
+#EXTINF:92,EBU Sound Quality Assessment Material - Piano (Schubert) (Stereo)
+60.flac
+#EXTINF:179,EBU Sound Quality Assessment Material - Soprano (Mozart) (Stereo)
+61.flac
+#EXTINF:31,EBU Sound Quality Assessment Material - Soprano (Spiritual) (Stereo)
+62.flac
+#EXTINF:57,EBU Sound Quality Assessment Material - Soloists (Verdi) (Stereo)
+63.flac
+#EXTINF:31,EBU Sound Quality Assessment Material - Choir (Orff) (Stereo)
+64.flac
+#EXTINF:112,EBU Sound Quality Assessment Material - Orchestra (R. Strauss) (Stereo)
+65.flac
+#EXTINF:18,EBU Sound Quality Assessment Material - Wind Ensemble (Stravinsky) (Stereo)
+66.flac
+#EXTINF:82,EBU Sound Quality Assessment Material - Wind Ensemble (Mozart) (Stereo)
+67.flac
+#EXTINF:164,EBU Sound Quality Assessment Material - Orchestra (Baird) (Stereo)
+68.flac
+#EXTINF:33,EBU Sound Quality Assessment Material - ABBA (Stereo)
+69.flac
+#EXTINF:21,EBU Sound Quality Assessment Material - Eddie Rabbitt(Stereo)
+70.flac
